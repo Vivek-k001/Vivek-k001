@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hi , myself i am vivek.<br>An BCA final year student<br>I have a keen passion for Web and App development<br>Have mastered in : <br>  • Frontent Web Dev <br>  • Flutter Dev <br>  • Database Management analyst<br>  • Video editor <br>  • Python, C , Java<br>
+Hi , myself i am vivek.<br>An BCA final year student<br>
+I have a keen passion for Web and App development<br>
+Have mastered in : <br>
+• Flutter Dev <br>  
+• Frontent Web Dev <br>  
+• Database analyst <br>  
+• Video editor <br>  
+• Python, C , Java, DBMS <br>
 
 
 ## 🌐 Socials:
