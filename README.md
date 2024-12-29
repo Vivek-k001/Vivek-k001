@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hi , myself i am vivek.<br>An BCA final year student<br>
-I have a keen passion for Web and App development<br>
+Hi , myself i am vivek.<br>
+An BCA final year student who have a keen passion for Web and App development<br>
 Have mastered in : <br>
 • Flutter Dev<br>
 • Frontent Web Dev<br>
