@@ -3,7 +3,7 @@ Heloo , Myself i am Vivek.<br>
 An BCA final year student who have a keen passion for Web and App development<br>
 I Have mastered in : <br>
 • Flutter Dev - 1year @ Cyra learnings<br>
-• Frontent Web Dev - 3year<br>
+• Frontent Web Dev - 3year 2 TaLim Platform<br>
 • Database analyst - 1year<br>
 • Video editor - 5year<br>
 • Python, C , Java, DBMS <br>
