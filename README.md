@@ -6,7 +6,7 @@ I Have mastered in : <br>
 • Frontent Web Dev - 3year 2 TaLim Platform<br>
 • Database analyst - 1year - self<br>
 • Video-editor - 5year - self<br>
-• Python, C , Java, DBMS,.. <br>
+• Python, C , Java, DBMS,... <br>
 
 
 ## 🌐 Socials:
