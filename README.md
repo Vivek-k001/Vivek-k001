@@ -4,7 +4,7 @@ An BCA final year student who have a keen passion for Web and App development<br
 I Have mastered in : <br>
 • Flutter Dev - 1year @ Cyra learnings<br>
 • Frontent Web Dev - 3year 2 TaLim Platform<br>
-• Database analyst - 1year - self<br>
+• Database analyst - 6months - self<br>
 • Video-editor - 5year - self<br>
 • Python, C , Java, DBMS <br>
 
