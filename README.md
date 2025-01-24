@@ -5,7 +5,7 @@ I Have mastered in : <br>
 • Flutter Dev - 1year @ Cyra learnings<br>
 • Frontent Web Dev - 3year 2 TaLim Platform<br>
 • Database analyst - 6months - self<br>
-• Video-editor - 5year - self<br>
+• Video & Photo-editor - 5year - self<br>
 • Python, C , Java, DBMS <br>
 
 
