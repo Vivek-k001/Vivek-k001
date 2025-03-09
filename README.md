@@ -8,6 +8,7 @@ I Have mastered in : <br>
 • Video & Photo-editor - 5year - self<br>
 • Python, C, Java, DBMS <br>
 ......
+m......
 
 
 ## 🌐 Socials:
