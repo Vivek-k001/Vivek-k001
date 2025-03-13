@@ -9,7 +9,7 @@ I Have mastered in : <br>
 • Python, C, Java, DBMS <br>
 
 .......
-
+......
 .
 
 ## 🌐 Socials:
