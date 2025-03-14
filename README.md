@@ -9,8 +9,7 @@ I Have mastered in : <br>
 • Python, C, Java, DBMS <br>
 
 .......
-......
-.
+.....
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vivek2cold?igsh=dDhtbDRsbm1la2F6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vivek-k-b098a732a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/FrlPlayer?t=bbQ9XzoTqyISgg8Mydp6iw&s=09) 
