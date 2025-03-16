@@ -7,7 +7,6 @@ I Have mastered in : <br>
 • Data analyst- 3months - self<br>
 • Video & Photo-editor - 5year - self<br>
 • Python, C, Java, DBMS <br>
-............
 ...........
 
 
