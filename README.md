@@ -25,9 +25,8 @@ I'm a **BCA final-year student** passionate about **Web and App Development**. B
 
 ---
 
-### 📊 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=Vivek-k001&theme=dark&hide_border=true&include_all_commits=true&count_private=false)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-k001&theme=dark&hide_border=true&layout=compact)
+### 📈 GitHub Streak:
+![Streak](https://streak-stats.demolab.com/?user=Vivek-k001&theme=dark&hide_border=true)
 
 ---
 
@@ -42,9 +41,6 @@ I'm a **BCA final-year student** passionate about **Web and App Development**. B
 ---
 
 ### 🎯 Additional Widgets:
-- **🔥 GitHub Streak:**  
-  ![Streak](https://streak-stats.demolab.com/?user=Vivek-k001&theme=dark&hide_border=true)
-
 - **👁 Profile Views:**  
   ![Views](https://komarev.com/ghpvc/?username=Vivek-k001&color=blue)
 
