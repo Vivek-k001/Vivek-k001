@@ -19,6 +19,10 @@ I Have mastered in : <br>
 ![](https://github-readme-stats.vercel.app/api?username=Vivek-k001&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-k001&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+## 📈 Contribution Activity
+![Vivek-k001's Commit Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vivek-k001&theme=github)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vivek-k001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
