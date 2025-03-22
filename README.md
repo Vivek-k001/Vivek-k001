@@ -35,6 +35,10 @@ I'm a **BCA final-year student** passionate about **Web and App Development**. B
 
 ---
 
+![GitHub Contributions](https://ghchart.rshah.org/Vivek-k001)
+
+---
+
 ### 🏆 GitHub Trophies:
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Vivek-k001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
