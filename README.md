@@ -25,15 +25,9 @@ I'm a **BCA final-year student** passionate about **Web and App Development**. B
 
 ---
 
-<div style="display: inline-block; margin-right: 10px;">
-  ### 📊 GitHub Stats:
-  ![Stats](https://github-readme-stats.vercel.app/api?username=Vivek-k001&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-</div>
-
-<div style="display: inline-block;">
-  ### 📊 Top Languages:
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-k001&theme=dark&hide_border=true&layout=compact)
-</div>
+### 📊 GitHub Stats:
+![Stats](https://github-readme-stats.vercel.app/api?username=Vivek-k001&theme=dark&hide_border=true&include_all_commits=true&count_private=false)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-k001&theme=dark&hide_border=true&layout=compact)
 
 ---
 
