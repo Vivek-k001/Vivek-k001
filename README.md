@@ -59,12 +59,6 @@ I'm a **BCA final-year student** passionate about **Web and App Development**. B
 - **👁 Profile Views:**  
   ![Views](https://komarev.com/ghpvc/?username=Vivek-k001&color=blue)
 
-- **💥 Current Streak:**  
-  ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vivek-k001&theme=dark)
-
-- **📊 Total Commits:**  
-  ![Commits](https://count.badgen.net/github/commits/Vivek-k001)
-
 ---
 
 ### 🔝 Top Contributed Repositories:
