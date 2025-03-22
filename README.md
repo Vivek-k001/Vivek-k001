@@ -42,12 +42,6 @@ A BCA final-year student passionate about Web and App development.<br>
 ### **👁 Profile Views:**
 ![Profile Views](https://komarev.com/ghpvc/?username=Vivek-k001&color=blue)
 
-### **💻 Real-Time Coding Stats:**
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vivek-k001&theme=dark)
-
-### **🐍 Snake Game Contribution Animation:**
-![Snake Animation](https://github.com/Vivek-k001/Vivek-k001/blob/output/github-contribution-grid-snake.svg)
-
 ---
 ## 🔝 Top Contributed Repositories:
 ![](https://github-contributor-stats.vercel.app/api?username=Vivek-k001&limit=5&theme=dark&combine_all_yearly_contributions=true)
