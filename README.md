@@ -1,8 +1,8 @@
-# Hi !'m Vivek
+# Vivek
 
-I'm a **BCA final-year student** with a passion for **Web and App Development**. Here's a quick look at my skills and experience:
+I'm a **BCA final-year student** passionate about **Web and App Development**. Below is a snapshot of my journey so far:
 
-<div align="center">
+---
 
 ### 💻 Skills & Experience:
 - **Flutter Developer** – 1 year (Cyra Learnings)
@@ -39,3 +39,42 @@ I'm a **BCA final-year student** with a passion for **Web and App Development**.
 ### 📊 GitHub Stats:
 ![Stats](https://github-readme-stats.vercel.app/api?username=Vivek-k001&theme=dark&hide_border=true&include_all_commits=true&count_private=false)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-k001&theme=dark&hide_border=true&layout=compact)
+
+---
+
+### 📈 Contribution Activity:
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vivek-k001&theme=react-dark)
+
+---
+
+### 🏆 GitHub Trophies:
+![Trophies](https://github-profile-trophy.vercel.app/?username=Vivek-k001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+### 🎯 Additional Widgets:
+- **🔥 GitHub Streak:**  
+  ![Streak](https://streak-stats.demolab.com/?user=Vivek-k001&theme=dark&hide_border=true)
+
+- **👁 Profile Views:**  
+  ![Views](https://komarev.com/ghpvc/?username=Vivek-k001&color=blue)
+
+- **💥 Current Streak:**  
+  ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vivek-k001&theme=dark)
+
+- **📊 Total Commits:**  
+  ![Commits](https://count.badgen.net/github/commits/Vivek-k001)
+
+---
+
+### 🔝 Top Contributed Repositories:
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=Vivek-k001&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+### 🎖 GitHub Badges:
+![Shark Coder](https://img.shields.io/badge/Shark%20Coder-%23007FFF.svg?style=for-the-badge&logo=shark&logoColor=white)  
+![Code Warrior](https://img.shields.io/badge/Code%20Warrior-%23FFD700.svg?style=for-the-badge&logo=dev.to&logoColor=black)  
+![Bug Hunter](https://img.shields.io/badge/Bug%20Hunter-%23FF4500.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
