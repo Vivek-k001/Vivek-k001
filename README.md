@@ -35,7 +35,7 @@ I'm a **BCA final-year student** passionate about **Web and App Development**. B
 
 ---
 
-![GitHub Contributions](https://ghchart.rshah.org/Vivek-k001)
+![GitHub Contributions](https://ghchart.rshah.org/Vivek-k001?theme=dark)
 
 ---
 
