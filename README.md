@@ -3,9 +3,9 @@
 I'm a **BCA final-year student** passionate about **Web and App Development**. Below is a snapshot of my journey so far:
 
 ---
-.
-.
-.
+...
+...
+...
 
 
 ### 💻 Skills & Experience:
