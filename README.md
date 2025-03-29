@@ -12,7 +12,7 @@ A **final-year BCA student** passionate about **Web and App Development**. Below
 - **Languages**: Python, C, Java, DBMS
 
 ---
-....
+...
 
 ### 🌐 Connect with Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vivek2cold)  
