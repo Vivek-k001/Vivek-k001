@@ -1,7 +1,6 @@
 # Myself Vivek
 
 A **BCA Graduate** passionate about **Web and App Development**. Below is a snapshot of my journey so far:
-.
 
 ---
 
