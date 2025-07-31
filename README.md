@@ -1,6 +1,6 @@
 # Myself Vivek
 
-A **MCA Student** & **BCA Graduate** 
+A **MCA Student** & **BCA Graduate** ㅤ
 passionate about **Web and App Development**. Below is a snapshot of my journey so far:
 
 ---
