@@ -26,10 +26,15 @@ passionate about **Web and App Development**. Below is a snapshot of my journey 
 </p>
 
 
+<div align="center">
+
 ### 📈 GitHub Streak:
-![Streak](https://streak-stats.demolab.com/?user=Vivek-k001&theme=dark&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=Vivek-k001&theme=dark&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ---
+
 
 ### 📈 Contribution Activity:
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vivek-k001&theme=react-dark)
