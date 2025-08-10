@@ -29,7 +29,11 @@ passionate about **Web and App Development**. Below is a snapshot of my journey 
 ### 📈 Contribution Activity:
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vivek-k001&theme=react-dark)
 
----
+
+![snake gif](https://github.com/Vivek-k001/Vivek-k001/blob/output/github-snake-dark.svg)
+
+
+
 
 ![GitHub Contributions](https://ghchart.rshah.org/Vivek-k001?theme=dark)
 
