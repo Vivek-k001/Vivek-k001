@@ -28,7 +28,7 @@ passionate about **Web and App Development**. Below is a snapshot of my journey 
 
 <div align="center">
 
-### 📈 GitHub Streak:
+###  GitHub Streak
 <img src="https://streak-stats.demolab.com/?user=Vivek-k001&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 </div>
@@ -45,7 +45,7 @@ passionate about **Web and App Development**. Below is a snapshot of my journey 
 
 
 
-![GitHub Contributions](https://ghchart.rshah.org/Vivek-k001?theme=dark)
+<!--![GitHub Contributions](https://ghchart.rshah.org/Vivek-k001?theme=dark) -->
 
 ---
 
