@@ -1,37 +1,55 @@
-# Myself Vivek
+<div align="center">
 
+# Myself Vivek
 A **MCA Student** & **BCA Graduate**
-passionate about **Web and App Development**. Below is a snapshot of my journey so far:
 
 ---
-.
 
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Web+%26+Flutter+App+Developer;W+E+L+C+O+M+E;" alt="Typing SVG" />
+</p>
+
+</div>
+
+
+Below is a snapshot of my journey so far:
 ### 💻 Skills :
+
 - **Flutter Developer** – 1 year (Cyra Learnings)
 - **Frontend Web Development** – 2 years (Self), 4 months (TaLim Platform)
 - **Data Analysis** – 3 months (Self)
 - **Video & Photo Editing** – 5 years (Self)
 - **Languages**: Python, C, Java, DBMS
 
+<h2 align="center">🛠 Tech Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,c,react" /><br>
+  <img src="https://skillicons.dev/icons?i=firebase,java,php,python" /><br>
+  <img src="https://skillicons.dev/icons?i=git,dart,mysql" /><br>
+  <img src="https://skillicons.dev/icons?i=flutter" />
+</p>
+
+
+<div align="center">
+
+###  GitHub Streak
+<img src="https://streak-stats.demolab.com/?user=Vivek-k001&theme=dark&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
 ---
 
-
-### 🛠️ Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-### 📈 GitHub Streak:
-![Streak](https://streak-stats.demolab.com/?user=Vivek-k001&theme=dark&hide_border=true)
-
----
 
 ### 📈 Contribution Activity:
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vivek-k001&theme=react-dark)
 
----
 
-![GitHub Contributions](https://ghchart.rshah.org/Vivek-k001?theme=dark)
+![snake gif](https://github.com/Vivek-k001/Vivek-k001/blob/output/github-snake-dark.svg)
+
+
+
+
+<!--![GitHub Contributions](https://ghchart.rshah.org/Vivek-k001?theme=dark) -->
 
 ---
 
