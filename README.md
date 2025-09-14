@@ -1,5 +1,7 @@
 <div align="center">
-# Myself Vivek
+
+  # Myself Vivek
+  
 A **MCA Student** & **BCA Graduate**
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Web+%26+Flutter+App+Developer;W+E+L+C+O+M+E;" alt="Typing SVG" />
