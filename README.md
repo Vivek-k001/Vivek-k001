@@ -8,6 +8,7 @@ A **MCA Student** & **BCA Graduate**
 </p>
 </div>
 Below is a snapshot of my journey so far:
+
 ### 💻 Skills :
 - **Flutter Developer** – 1 year (Cyra Learnings)
 - **Frontend Web Development** – 2 years (Self), 4 months (TaLim Platform)
@@ -25,7 +26,7 @@ Below is a snapshot of my journey so far:
 
 <div align="center">
 
-###  GitHub Streak
+###  My GitHub Streak
 <img src="https://streak-stats.demolab.com/?user=Vivek-k001&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 </div>
