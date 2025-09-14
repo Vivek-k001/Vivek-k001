@@ -1,17 +1,12 @@
 <div align="center">
-
 # Myself Vivek
 A **MCA Student** & **BCA Graduate**
-
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Web+%26+Flutter+App+Developer;W+E+L+C+O+M+E;" alt="Typing SVG" />
 </p>
 </div>
-
-
 Below is a snapshot of my journey so far:
 ### 💻 Skills :
-
 - **Flutter Developer** – 1 year (Cyra Learnings)
 - **Frontend Web Development** – 2 years (Self), 4 months (TaLim Platform)
 - **Video & Photo Editing** – 5 years (Self)
