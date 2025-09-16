@@ -31,37 +31,23 @@ Below is a snapshot of my journey so far:
 
 </div>
 
----
-
-
 ### 📈 Contribution Activity:
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vivek-k001&theme=react-dark)
 
 
 ![snake gif](https://github.com/Vivek-k001/Vivek-k001/blob/output/github-snake-dark.svg)
 
-
-
-
 <!--![GitHub Contributions](https://ghchart.rshah.org/Vivek-k001?theme=dark) -->
-
----
 
 ### 🏆 GitHub Trophies:
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Vivek-k001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
 
 ### 🎯 Additional Widgets:
 - **👁 Profile Views:**  
   ![Views](https://komarev.com/ghpvc/?username=Vivek-k001&color=blue)
 
----
-
 ### 🔝 Top Contributed Repositories:
 ![Top Repos](https://github-contributor-stats.vercel.app/api?username=Vivek-k001&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 
 ### 🎖 GitHub Badges:
 ![YOLO](https://img.shields.io/badge/YOLO-%23FFD700.svg?style=for-the-badge&logo=github&logoColor=black)  
