@@ -8,7 +8,7 @@ A **MCA Student** & **BCA Graduate**
 </p>
 </div>
 Below is a snapshot of my journey so far:
-
+.
 ### 💻 Skills :
 - **Flutter Developer** – 1 year (Cyra Learnings)
 - **Frontend Web Development** – 2 years (Self), 5 months (TaLim Platform)
