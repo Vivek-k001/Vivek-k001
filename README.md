@@ -1,8 +1,10 @@
 <div align="center">
 
-# Myself Vivek
+# Vivek K — Software Developer
+I'm Vivek K, a software developer and MCA student focused on
+Flutter, MERN-stack development, desktop applications, and
+automation with modern developer tools.
 
-A **MCA Student** & **BCA Graduate**
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Flutter+%26+MERN+Developer;Desktop+Application+Developer" alt="Typing SVG" />
@@ -10,9 +12,7 @@ A **MCA Student** & **BCA Graduate**
 
 </div>
 
-Below is a snapshot of my journey so far:
-
-### 💻 Skills :
+### My Skills and technologies 💻 :
 
 * **Flutter Developer** – 1 year (Cyra Learnings)
 * **Frontend Web Development** – 2 years (Self), 5 months (TaLim Platform)
@@ -63,12 +63,13 @@ Below is a snapshot of my journey so far:
 
 ### 🔝 Top Contributed Repositories:
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Vivek-k001\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=Vivek-k001&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ## 📬 Connect With Me
 
 <p align="left">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:vk3699010@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
   &nbsp;
