@@ -5,6 +5,14 @@ I'm Vivek K, a software developer and MCA student focused on
 Flutter, MERN-stack development, desktop applications, and
 automation with modern developer tools.
 
+<p align="center">
+  <a href="https://vivek-k001.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Official_Portfolio-vivek--k001.github.io-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/vivek-k-b098a732a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Vivek_K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Flutter+%26+MERN+Developer;Desktop+Application+Developer" alt="Typing SVG" />
@@ -69,6 +77,10 @@ automation with modern developer tools.
 ## 📬 Connect With Me
 
 <p align="left">
+  <a href="https://vivek-k001.github.io" target="_blank" title="Official Portfolio">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-vivek--k001.github.io-00C7B7?style=for-the-badge" height="40" />
+  </a>
+  &nbsp;
   <a href="mailto:vk3699010@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
